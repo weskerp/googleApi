@@ -39,7 +39,7 @@ Este projeto utiliza o framework Laravel 5.4 e PHP 7.2 para interagir com a API 
     O aplicativo estará disponível em http://localhost:8000.
 ## Configuração da API do Google Maps
 Certifique-se de que suas credenciais da API do Google Maps estejam corretamente configuradas no arquivo .env. Caso não tenha as credenciais, você pode obtê-las aqui.
-```bash
+```env
 GOOGLE_MAPS_API_KEY=your-api-key
 ```
 ## Uso
